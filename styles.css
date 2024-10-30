@@ -86,6 +86,10 @@
   .projects a:hover {
     text-decoration: underline;
   }
+  .underLine{
+    border-bottom: 2px solid #040118;
+
+  }
   
   .details {
     color: #555;
